@@ -16,6 +16,9 @@ A clean, responsive React application built with **Vite** that lets users manage
 - **Build Tool**: Vite
 - **Styling**: Modern CSS3 (Flexbox)
 
+## Live Demo
+https://my-movie-shelf-react.netlify.app
+
 ## 🚀 Getting Started
 
 ### Prerequisites
